@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTp+Bg1FcY7S4x28JJ5PQ7tOMTO6fp6Axz1DUjGmFBkscrQi8IFzKJl+8Z0BpC3C/BW3jxDhUzHA4i7PVf8rWA==",
+  "dgSpecHash": "XukzbyOsc1GH4ZbfG2bXO9/tL+llFYcnNgKyU50qqAz6Zww7IrsLRlRRLULo17AA/rdjMDaijRvgki6nQ9zENQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

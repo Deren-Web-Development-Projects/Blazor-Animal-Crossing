@@ -194,21 +194,6 @@
             "rid": "win"
           }
         }
-      },
-      "ClassLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Dapper": "2.0.151",
-          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
-          "System.Data.SqlClient": "4.8.5"
-        },
-        "compile": {
-          "bin/placeholder/ClassLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ClassLibrary.dll": {}
-        }
       }
     }
   },
@@ -597,16 +582,13 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "ClassLibrary/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary/ClassLibrary.csproj",
-      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ClassLibrary >= 1.0.0"
+      "Dapper >= 2.0.151",
+      "Microsoft.Extensions.Configuration.Abstractions >= 7.0.0",
+      "System.Data.SqlClient >= 4.8.5"
     ]
   },
   "packageFolders": {
@@ -616,11 +598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\BlazorApp\\BlazorApp.csproj",
-      "projectName": "BlazorApp",
-      "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\ClassLibrary.csproj",
+      "projectName": "ClassLibrary",
+      "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\BlazorApp\\obj\\",
+      "outputPath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -635,17 +617,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\ACNHCreatures\\ClassLibrary\\ClassLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -657,6 +634,20 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.151, )"
+          },
+          "Microsoft.Extensions.Configuration.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "System.Data.SqlClient": {
+            "target": "Package",
+            "version": "[4.8.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -669,9 +660,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
