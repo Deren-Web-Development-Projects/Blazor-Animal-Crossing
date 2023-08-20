@@ -1,0 +1,65 @@
+﻿@page "/allbugs"
+@inject IDataService bugData
+
+<h3>AllBugs</h3>
+
+@if (bugs == null)
+{
+    <h4>Loading ...</h4>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Icon</th>
+                <th>Sell Price</th>
+                <th>Weather</th>
+                <th>Location</th>
+                <th>North Time Start</th>
+                <th>North Time End</th>
+                <th>South Time Start</th>
+                <th>South Time End</th>
+                <th>North Month Start</th>
+                <th>North Month End</th>
+                <th>South Month Start</th>
+                <th>South Month End</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var bug in bugs)
+            {
+                <tr>
+                    <th>@bug.Id</th>
+                    <th>@bug.Name</th>
+                    <th>@bug.Icon</th>
+                    <th>
+                        <img src="@bug.Icon" alt="@bug.Name" width="64" height="64">
+                    </th>
+                    <th>@bug.SellPrice</th>
+                    <th>@bug.Weather</th>
+                    <th>@bug.Location</th>
+                    <th>@bug.NorthTimeStart</th>
+                    <th>@bug.NorthTimeEnd</th>
+                    <th>@bug.SouthTimeStart</th>
+                    <th>@bug.SouthTimeEnd</th>
+                    <th>@bug.NorthMonthStart</th>
+                    <th>@bug.NorthMonthEnd</th>
+                    <th>@bug.SouthMonthStart</th>
+                    <th>@bug.SouthMonthEnd</th>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<IBugModel> bugs;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        bugs = await bugData.ReadAllBugs();
+    }
+}

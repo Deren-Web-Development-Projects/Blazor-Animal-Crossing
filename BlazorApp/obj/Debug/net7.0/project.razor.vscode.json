@@ -87,6 +87,45 @@
         }
       },
       {
+        "HashCode": -1634094121,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllBugs",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllBugs",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AllBugs"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllBugs",
+          "Common.TypeNameIdentifier": "AllBugs",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 513344255,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllBugs",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllBugs",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.AllBugs"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllBugs",
+          "Common.TypeNameIdentifier": "AllBugs",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 276752260,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Shared.Layout",
@@ -24400,6 +24439,11 @@
     {
       "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Shared\\Navbar.razor",
       "TargetPath": "Shared\\Navbar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Pages\\AllBugs.razor",
+      "TargetPath": "Pages\\AllBugs.razor",
       "FileKind": "component"
     }
   ]
