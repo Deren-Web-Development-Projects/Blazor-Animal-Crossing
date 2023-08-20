@@ -12,9 +12,8 @@ else
     <table>
         <thead>
             <tr>
-                <th>Id</th>
                 <th>Name</th>
-                <th>Icon</th>
+                <th>Image</th>
                 <th>Sell Price</th>
                 <th>Weather</th>
                 <th>Location</th>
@@ -32,11 +31,9 @@ else
             @foreach(var bug in bugs)
             {
                 <tr>
-                    <th>@bug.Id</th>
                     <th>@bug.Name</th>
-                    <th>@bug.Icon</th>
                     <th>
-                        <img src="@bug.Icon" alt="@bug.Name" width="64" height="64">
+                        <img src="images/bugs/@bug.Icon" alt="@bug.Name" width="64" height="64">
                     </th>
                     <th>@bug.SellPrice</th>
                     <th>@bug.Weather</th>
