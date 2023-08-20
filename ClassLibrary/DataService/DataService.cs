@@ -6,7 +6,7 @@ using ClassLibrary.DataAccess;
 
 namespace ClassLibrary.DataService
 {
-    public class DataService
+    public class DataService : IDataService
     {
         private readonly ISqlDataAccess _dataAccess;
 

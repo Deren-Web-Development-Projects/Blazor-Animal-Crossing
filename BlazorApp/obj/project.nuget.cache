@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OzuZbnTS5DzzEoSniBJ1I32Jm0e3f49NKPt9l0DDllcg1Xc0msBHzahm32xzGWjVI+SJJeFwvmwCby2gRUN8lA==",
+  "dgSpecHash": "tQa0LO70egJhfFjaNOFzVWxjxSnsiydqXEjHE7BygDTIlRc6zz9HGCNAC/Y4XttA1DHQnz0P07klZ9cYzf8Azw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

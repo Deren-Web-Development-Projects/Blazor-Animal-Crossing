@@ -1,0 +1,12 @@
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+C:\Users\dboze\Documents\LocalRepo-Web\ACNH\Blazor-Animal-Crossing\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll
