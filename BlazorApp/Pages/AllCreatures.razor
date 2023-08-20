@@ -1,0 +1,60 @@
+﻿@page "/allcreatures"
+@inject IDataService creatureData
+
+<h3>All Creatures</h3>
+
+@if (creatures == null)
+{
+    <h4>Loading ...</h4>
+}
+else 
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Image</th>
+                <th>Sell Price</th>
+                <th>Shadow Size</th>
+                <th>North Time Start</th>
+                <th>North Time End</th>
+                <th>South Time Start</th>
+                <th>South Time End</th>
+                <th>North Month Start</th>
+                <th>North Month End</th>
+                <th>South Month Start</th>
+                <th>South Month End</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var creature in creatures)
+            {
+                <tr>
+                    <th>@creature.Name</th>
+                    <th>
+                        <img src="images/creatures/@creature.Icon" alt="@creature.Name" width="64" height="64">
+                    </th>
+                    <th>@creature.SellPrice</th>
+                    <th>@creature.ShadowSize</th>
+                    <th>@creature.NorthTimeStart</th>
+                    <th>@creature.NorthTimeEnd</th>
+                    <th>@creature.SouthTimeStart</th>
+                    <th>@creature.SouthTimeEnd</th>
+                    <th>@creature.NorthMonthStart</th>
+                    <th>@creature.NorthMonthEnd</th>
+                    <th>@creature.SouthMonthStart</th>
+                    <th>@creature.SouthMonthEnd</th>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ICreatureModel> creatures;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        creatures = await creatureData.ReadAllCreatures();
+    }
+}

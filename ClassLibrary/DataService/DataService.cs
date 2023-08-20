@@ -21,5 +21,19 @@ namespace ClassLibrary.DataService
                 ("spBugs_ReadAll", new { }, "Default");
             return bugs.ToList<IBugModel>();
         }
+
+        public async Task<List<ICreatureModel>> ReadAllCreatures()
+        {
+            var creatures = await _dataAccess.LoadData<CreatureModel, dynamic>
+                ("spCreatures_ReadAll", new { }, "Default");
+            return creatures.ToList<ICreatureModel>();
+        }
+
+        public async Task<List<IFishModel>> ReadAllFish()
+        {
+            var fish = await _dataAccess.LoadData<FishModel, dynamic>
+                ("spFish_ReadAll", new { }, "Default");
+            return fish.ToList<IFishModel>();
+        }
     }
 }

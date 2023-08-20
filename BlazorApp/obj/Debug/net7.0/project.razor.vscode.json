@@ -126,6 +126,84 @@
         }
       },
       {
+        "HashCode": -1856563471,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllCreatures",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllCreatures",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AllCreatures"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllCreatures",
+          "Common.TypeNameIdentifier": "AllCreatures",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 538421108,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllCreatures",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllCreatures",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.AllCreatures"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllCreatures",
+          "Common.TypeNameIdentifier": "AllCreatures",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -214550645,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllFish",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllFish",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AllFish"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllFish",
+          "Common.TypeNameIdentifier": "AllFish",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -698001419,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.AllFish",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Pages.AllFish",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.AllFish"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.AllFish",
+          "Common.TypeNameIdentifier": "AllFish",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 276752260,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Shared.Layout",
@@ -24444,6 +24522,16 @@
     {
       "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Pages\\AllBugs.razor",
       "TargetPath": "Pages\\AllBugs.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Pages\\AllCreatures.razor",
+      "TargetPath": "Pages\\AllCreatures.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Pages\\AllFish.razor",
+      "TargetPath": "Pages\\AllFish.razor",
       "FileKind": "component"
     }
   ]

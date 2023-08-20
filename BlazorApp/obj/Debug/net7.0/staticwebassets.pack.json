@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets\\images\\bugs\\Diving Beetle.png"
     },
     {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Drone beetle.png",
+      "PackagePath": "staticwebassets\\images\\bugs\\Drone beetle.png"
+    },
+    {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Dung Beetle.png",
       "PackagePath": "staticwebassets\\images\\bugs\\Dung Beetle.png"
     },
@@ -145,16 +149,20 @@
       "PackagePath": "staticwebassets\\images\\bugs\\Honeybee.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Hored Elephant.png",
-      "PackagePath": "staticwebassets\\images\\bugs\\Hored Elephant.png"
-    },
-    {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Atlas.png",
       "PackagePath": "staticwebassets\\images\\bugs\\Horned Atlas.png"
     },
     {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Elephant.png",
+      "PackagePath": "staticwebassets\\images\\bugs\\Horned Elephant.png"
+    },
+    {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Hercules.png",
       "PackagePath": "staticwebassets\\images\\bugs\\Horned Hercules.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned dynastid.png",
+      "PackagePath": "staticwebassets\\images\\bugs\\Horned dynastid.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Jewel Beetle.png",
@@ -225,16 +233,16 @@
       "PackagePath": "staticwebassets\\images\\bugs\\Pondskater.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Queen Alexandra_s Birdwing.png",
-      "PackagePath": "staticwebassets\\images\\bugs\\Queen Alexandra_s Birdwing.png"
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Queen Alexandra's Birdwing.png",
+      "PackagePath": "staticwebassets\\images\\bugs\\Queen Alexandra's Birdwing.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rainbow Stag.png",
       "PackagePath": "staticwebassets\\images\\bugs\\Rainbow Stag.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rajah Brooke_s Birdwing.png",
-      "PackagePath": "staticwebassets\\images\\bugs\\Rajah Brooke_s Birdwing.png"
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rajah Brooke's Birdwing.png",
+      "PackagePath": "staticwebassets\\images\\bugs\\Rajah Brooke's Birdwing.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Red Dragonfly.png",

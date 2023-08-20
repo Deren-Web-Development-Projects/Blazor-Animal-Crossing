@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ePA5yRENW5fSUwmXbePcppCa0FDjMebGExVWYHOWXKw=",
+  "Hash": "h0TZ4Gqxl8lBeA1ODPZRXPzaUOhtpS9A79EF2QBanTE=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -340,6 +340,23 @@
       "OriginalItemSpec": "wwwroot\\images\\bugs\\Diving Beetle.png"
     },
     {
+      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Drone beetle.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/bugs/Drone beetle.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bugs\\Drone beetle.png"
+    },
+    {
       "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Dung Beetle.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
@@ -629,23 +646,6 @@
       "OriginalItemSpec": "wwwroot\\images\\bugs\\Honeybee.png"
     },
     {
-      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Hored Elephant.png",
-      "SourceId": "BlazorApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
-      "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/bugs/Hored Elephant.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\bugs\\Hored Elephant.png"
-    },
-    {
       "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Atlas.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
@@ -661,6 +661,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bugs\\Horned Atlas.png"
+    },
+    {
+      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned dynastid.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/bugs/Horned dynastid.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bugs\\Horned dynastid.png"
+    },
+    {
+      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Elephant.png",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "images/bugs/Horned Elephant.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bugs\\Horned Elephant.png"
     },
     {
       "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Horned Hercules.png",
@@ -969,12 +1003,12 @@
       "OriginalItemSpec": "wwwroot\\images\\bugs\\Pondskater.png"
     },
     {
-      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Queen Alexandra_s Birdwing.png",
+      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Queen Alexandra's Birdwing.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/bugs/Queen Alexandra_s Birdwing.png",
+      "RelativePath": "images/bugs/Queen Alexandra's Birdwing.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,7 +1017,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\bugs\\Queen Alexandra_s Birdwing.png"
+      "OriginalItemSpec": "wwwroot\\images\\bugs\\Queen Alexandra's Birdwing.png"
     },
     {
       "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rainbow Stag.png",
@@ -1003,12 +1037,12 @@
       "OriginalItemSpec": "wwwroot\\images\\bugs\\Rainbow Stag.png"
     },
     {
-      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rajah Brooke_s Birdwing.png",
+      "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Rajah Brooke's Birdwing.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/bugs/Rajah Brooke_s Birdwing.png",
+      "RelativePath": "images/bugs/Rajah Brooke's Birdwing.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,7 +1051,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\bugs\\Rajah Brooke_s Birdwing.png"
+      "OriginalItemSpec": "wwwroot\\images\\bugs\\Rajah Brooke's Birdwing.png"
     },
     {
       "Identity": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\bugs\\Red Dragonfly.png",
