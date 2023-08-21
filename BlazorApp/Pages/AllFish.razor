@@ -1,56 +1,62 @@
 ﻿@page "/allfish"
 @inject IDataService fishData
 
-<h3>All Fish</h3>
 
-@if (fish == null)
-{
-    <h4>Loading ...</h4>
-}
-else
-{
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Image</th>
-                <th>Sell Price</th>
-                <th>Shadow Size</th>
-                <th>Location</th>
-                <th>North Time Start</th>
-                <th>North Time End</th>
-                <th>South Time Start</th>
-                <th>South Time End</th>
-                <th>North Month Start</th>
-                <th>North Month End</th>
-                <th>South Month Start</th>
-                <th>South Month End</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach(var f in fish)
-            {
-                <tr>
-                    <th>@f.Name</th>
-                    <th>
-                        <img src="images/fish/@f.Icon" alt="@f.Name" width="64" height="64">
-                    </th>
-                    <th>@f.SellPrice</th>
-                    <th>@f.ShadowSize</th>
-                    <th>@f.Location</th>
-                    <th>@f.NorthTimeStart</th>
-                    <th>@f.NorthTimeEnd</th>
-                    <th>@f.SouthTimeStart</th>
-                    <th>@f.SouthTimeEnd</th>
-                    <th>@f.NorthMonthStart</th>
-                    <th>@f.NorthMonthEnd</th>
-                    <th>@f.SouthMonthStart</th>
-                    <th>@f.SouthMonthEnd</th>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
+<div class="container-fluid">
+    <div class="banner">
+        All Fish
+    </div>
+    <div class="container">
+        @if (fish == null)
+        {
+            <h4>Loading ...</h4>
+        }
+        else
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Image</th>
+                        <th>Sell Price</th>
+                        <th>Shadow Size</th>
+                        <th>Location</th>
+                        <th>North Time Start</th>
+                        <th>North Time End</th>
+                        <th>South Time Start</th>
+                        <th>South Time End</th>
+                        <th>North Month Start</th>
+                        <th>North Month End</th>
+                        <th>South Month Start</th>
+                        <th>South Month End</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var f in fish)
+                    {
+                        <tr>
+                            <th>@f.Name</th>
+                            <th>
+                                <img src="images/fish/@f.Icon" alt="@f.Name" width="64" height="64">
+                            </th>
+                            <th>@f.SellPrice</th>
+                            <th>@f.ShadowSize</th>
+                            <th>@f.Location</th>
+                            <th>@f.NorthTimeStart</th>
+                            <th>@f.NorthTimeEnd</th>
+                            <th>@f.SouthTimeStart</th>
+                            <th>@f.SouthTimeEnd</th>
+                            <th>@f.NorthMonthStart</th>
+                            <th>@f.NorthMonthEnd</th>
+                            <th>@f.SouthMonthStart</th>
+                            <th>@f.SouthMonthEnd</th>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
 
 @code {
     private List<IFishModel> fish;

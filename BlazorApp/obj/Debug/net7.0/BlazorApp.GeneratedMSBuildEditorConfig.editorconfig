@@ -40,10 +40,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/Shared/Layout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/Shared/Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,6 +47,14 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ivhxwnwf90
+
+[C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/Shared/Layout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kchrgebzq8
 
 [C:/Users/dboze/Documents/LocalRepo-Web/ACNH/Blazor-Animal-Crossing/BlazorApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s

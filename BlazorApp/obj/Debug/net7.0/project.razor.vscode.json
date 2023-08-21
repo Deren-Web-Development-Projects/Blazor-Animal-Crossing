@@ -355,6 +355,45 @@
         }
       },
       {
+        "HashCode": 775504858,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Footer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Footer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1981457758,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.Footer",
+        "AssemblyName": "BlazorApp",
+        "DisplayName": "BlazorApp.Shared.Footer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "BlazorApp.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 80232820,
         "Kind": "Components.Component",
         "Name": "BlazorApp.MainLayout",
@@ -24533,6 +24572,11 @@
       "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\Shared\\Footer.razor",
+      "TargetPath": "Shared\\Footer.razor",
+      "FileKind": "component"
     }
   ]
 }
