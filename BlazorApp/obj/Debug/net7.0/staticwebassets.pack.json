@@ -477,8 +477,8 @@
       "PackagePath": "staticwebassets\\images\\creatures\\Vampire Squid.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\creatures\\Venus_ Flower Basket.png",
-      "PackagePath": "staticwebassets\\images\\creatures\\Venus_ Flower Basket.png"
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\creatures\\Venus' Flower Basket.png",
+      "PackagePath": "staticwebassets\\images\\creatures\\Venus' Flower Basket.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\creatures\\Whelk.png",
@@ -577,8 +577,8 @@
       "PackagePath": "staticwebassets\\images\\fish\\Moray Eel.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Napoleanfish.png",
-      "PackagePath": "staticwebassets\\images\\fish\\Napoleanfish.png"
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Napoleonfish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\Napoleonfish.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Neon Tetra.png",
@@ -597,8 +597,8 @@
       "PackagePath": "staticwebassets\\images\\fish\\Ocean Sunfish.png"
     },
     {
-      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Olive Flouder.png",
-      "PackagePath": "staticwebassets\\images\\fish\\Olive Flouder.png"
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Olive flounder.png",
+      "PackagePath": "staticwebassets\\images\\fish\\Olive flounder.png"
     },
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Pale Chub.png",
@@ -723,6 +723,86 @@
     {
       "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\Zebra Turkeyfish.png",
       "PackagePath": "staticwebassets\\images\\fish\\Zebra Turkeyfish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\anchovy.png",
+      "PackagePath": "staticwebassets\\images\\fish\\anchovy.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\angelfish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\angelfish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\arapaima.png",
+      "PackagePath": "staticwebassets\\images\\fish\\arapaima.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\arowana.png",
+      "PackagePath": "staticwebassets\\images\\fish\\arowana.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\barred knifejaw.png",
+      "PackagePath": "staticwebassets\\images\\fish\\barred knifejaw.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\barreleye.png",
+      "PackagePath": "staticwebassets\\images\\fish\\barreleye.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\betta.png",
+      "PackagePath": "staticwebassets\\images\\fish\\betta.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\bitterling.png",
+      "PackagePath": "staticwebassets\\images\\fish\\bitterling.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\black bass.png",
+      "PackagePath": "staticwebassets\\images\\fish\\black bass.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\blowfish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\blowfish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\blue marlin.png",
+      "PackagePath": "staticwebassets\\images\\fish\\blue marlin.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\bluegill.png",
+      "PackagePath": "staticwebassets\\images\\fish\\bluegill.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\butterfly fish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\butterfly fish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\carp.png",
+      "PackagePath": "staticwebassets\\images\\fish\\carp.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\catfish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\catfish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\char.png",
+      "PackagePath": "staticwebassets\\images\\fish\\char.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\cherry salmon.png",
+      "PackagePath": "staticwebassets\\images\\fish\\cherry salmon.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\clown fish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\clown fish.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\coelacanth.png",
+      "PackagePath": "staticwebassets\\images\\fish\\coelacanth.png"
+    },
+    {
+      "Id": "C:\\Users\\dboze\\Documents\\LocalRepo-Web\\ACNH\\Blazor-Animal-Crossing\\BlazorApp\\wwwroot\\images\\fish\\crawfish.png",
+      "PackagePath": "staticwebassets\\images\\fish\\crawfish.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
