@@ -35,5 +35,15 @@ namespace ClassLibrary.DataService
                 ("spFish_ReadAll", new { }, "Default");
             return fish.ToList<IFishModel>();
         }
+
+        public async Task<List<IBugModel>> NorthBugsCurrent()
+        {
+            DateTime dt = DateTime.Now;
+            int currentMonth = dt.Month;
+            int currentHour = dt.Hour;
+            var bugs = await _dataAccess.LoadData<BugModel, dynamic>
+                ("spBugs_ReadAll", new { }, "Default");
+            return bugs.ToList<IBugModel>();
+        }
     }
 }
