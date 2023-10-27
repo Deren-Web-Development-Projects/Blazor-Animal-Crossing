@@ -1,3 +1,5 @@
 .vscode
 BlazorApp/obj/
+BlazorApp/bin/Debug
 ClassLibrary/obj/
+ClassLibrary/bin/Debug
